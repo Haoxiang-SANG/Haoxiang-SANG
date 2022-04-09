@@ -1,4 +1,7 @@
 # about me
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+
 Haoxiang SANG, a undergraduate at [Anhui University](https://en.wikipedia.org/wiki/Anhui_University).  
 I love coding, math and English.  
 I used to be an OIer in Hefei No.8 High School with [@yogsprimate](https://github.com/yogsprimate), now I major in InfoSec at AHU.  
