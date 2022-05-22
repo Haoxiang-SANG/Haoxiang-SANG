@@ -1,8 +1,8 @@
-# Bio
+# Introduce myself
 
-Haoxiang Sang, a undergraduate at [Anhui University](https://en.wikipedia.org/wiki/Anhui_University).  
-He loves coding, math and English.
-He majors in InfoSec at AHU, advisor: [Jie Cui](https://scholar.google.com.hk/citations?user=KL-Ik_wAAAAJ&hl=zh-CN).  
-He is seeking for some partners around the world. If you're interesting in me, please contact me at sanghaoxiang@gmail.com  
-More information about him, please visit His blog: http://139.196.163.103/  
-His offical homepage [haoxiang-sang.github.io](haoxiang-sang.github.io)
+I'm a first-year undergraduate at [Anhui University](https://en.wikipedia.org/wiki/Anhui_University).  
+Competitions motivate my spirit in my daily life, especially program, math and CTF.  
+I major in Infomation Security at AHU, and I am very fortunate to be advised by [Jie Cui](https://scholar.google.com.hk/citations?user=KL-Ik_wAAAAJ&hl=zh-CN).  
+I am seeking for some partners around the world. If you're interesting in me, please contact me at sanghaoxiang@gmail.com  
+More information about me, please visit my blog: http://139.196.163.103/  
+My offical homepage [haoxiang-sang.github.io](haoxiang-sang.github.io)  
