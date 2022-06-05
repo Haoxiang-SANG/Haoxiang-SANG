@@ -6,4 +6,4 @@ I major in Infomation Security at AHU, and I am very fortunate to be advised by 
 I am seeking for some partners around the world. If you're interesting in me, please contact me at sanghaoxiang@gmail.com  
 More information about me, please visit my blog: http://139.196.163.103/  
 My offical homepage [haoxiang-sang.github.io](haoxiang-sang.github.io)  
-Dream to be a Ph.D student in the US :)
+Dream to be a PhD student in the US :)
